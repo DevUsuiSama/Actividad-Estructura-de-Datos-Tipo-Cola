@@ -5,7 +5,7 @@
 - Profesor: Ing. Pedro Ferrando
 
 ## Descripción
-Este proyecto es a manera de aprendizaje, su objetivo es la de entender el funcionamiento de una lista enlazada simple.
+Este proyecto es a manera de aprendizaje, su objetivo es la de entender el funcionamiento de una estructura de datos tipo cola.
 
 ## Consigna
 
